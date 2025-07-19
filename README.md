@@ -32,7 +32,7 @@ Here are a few of my top repositories:
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| [`🌐 Portfolio`](https://github.com/shaikh-samiha/portfolio) | My personal website showcasing who I am and what I do | HTML, CSS, JS |
+| [`🌐 Portfolio`](https://github.com/shaikh-samiha) | My personal website showcasing who I am and what I do | HTML, CSS, JS |
 | [`🛍️ FashionZone`](https://github.com/shaikh-samiha/fashionzone) | Thrift store website for Gen Z | HTML, CSS |
 | [`🧠 TestaHealth`](https://github.com/shaikh-samiha/testaHealth) | Health tech prototype for smart diagnosis | JS, APIs |
 | [`🤝 CCA Coding Circle`](https://github.com/shaikh-samiha/CCA-coding-circle-academy) | Code learning community initiative | Markdown, HTML |
