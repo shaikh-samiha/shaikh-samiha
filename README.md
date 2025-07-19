@@ -1,49 +1,68 @@
-# 👩‍💻 Shaikh Samiha | Web Developer | Clinical Lab Science Enthusiast
+<!-- GitHub Profile Header -->
+<h1 align="center">Hi, I'm Shaikh Samiha 👩‍💻</h1>
+<h3 align="center">🚀 Frontend Developer | 🌐 Web Designer | 🧪 Health-Tech Explorer</h3>
 
-Hi there! I'm **Shaikh Samiha**, a passionate Web Developer and student of **B.Sc. Clinical Laboratory Science**. I specialize in crafting responsive websites and integrating health with technology. 
-
-🔭 Currently working at **Relate Zone** as a Marketing Intern  
-🌱 Learning full-stack web development & exploring health informatics  
-👯 Open to collaborate on web and health-tech projects  
-📫 Reach me at: shaikhsamiha9175@gmail.com  
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 Languages: HTML, CSS, JavaScript  
-- ⚙️ Frameworks: React.js, Node.js, Express  
-- 🛠️ Tools: Git, GitHub, Canva, Figma  
-- 🌐 Hosting: GitHub Pages, Vercel  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Creative+Coder+%F0%9F%92%BB;Web+Dev+%2B+HealthTech+%3D+Future+%F0%9F%8C%9F;Open+to+Collaborations+%F0%9F%91%8D;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ---
 
-## ✨ Projects
+### ✨ About Me
 
-Here are a few repositories I’ve worked on:
-
-- [`Portfolio`](https://github.com/shaikh-samiha/portfolio): My personal portfolio website  
-- [`FashionZone`](https://github.com/shaikh-samiha/fashionzone): A thrift store brand site  
-- [`TestaHealth`](https://github.com/shaikh-samiha/testaHealth): Merging health & tech through web  
-- [`ShaikhSamiha`](https://github.com/shaikh-samiha/shaikhsamiha): Creative design showcase  
-
----
-
-## 📈 GitHub Stats
-
-![Samiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikh-samiha&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-samiha&layout=compact&theme=tokyonight)](https://github.com/shaikh-samiha)
+🎓 I'm a B.Sc. Clinical Laboratory Science student with a love for tech and a mind for creativity.  
+🖥️ I craft elegant websites, health-focused apps, and community-led learning experiences.  
+🌱 Currently learning ReactJS & contributing to open-source.  
+🎨 I also work as a **graphic designer** and build branding content on Canva.  
+💬 Ask me about frontend dev, UI/UX, or creative tech ideas!
 
 ---
 
-## 💬 Let's Connect!
+### 🧰 Tech Toolbox
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shaikhsamiha)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/shaikh_samiha75)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919175317211)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,canva,vscode" />
+</p>
 
 ---
 
-_“Passionate about coding, driven by design, inspired by innovation.”_
-# shaikh_samiha
+### 🚀 Featured Projects
+
+Here are a few of my top repositories:
+
+| Name | Description | Tech Stack |
+|------|-------------|------------|
+| [`🌐 Portfolio`](https://github.com/shaikh-samiha/portfolio) | My personal website showcasing who I am and what I do | HTML, CSS, JS |
+| [`🛍️ FashionZone`](https://github.com/shaikh-samiha/fashionzone) | Thrift store website for Gen Z | HTML, CSS |
+| [`🧠 TestaHealth`](https://github.com/shaikh-samiha/testaHealth) | Health tech prototype for smart diagnosis | JS, APIs |
+| [`🤝 CCA Coding Circle`](https://github.com/shaikh-samiha/CCA-coding-circle-academy) | Code learning community initiative | Markdown, HTML |
+| [`🎨 ShaikhSamiha`](https://github.com/shaikh-samiha/shaikhsamiha) | Profile repo with design case studies | Markdown, Design |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-samiha&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-samiha&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-samiha&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:shaikhsamiha9175@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+> "Combining science and code can save lives. I aim to make that happen." 🚀
+
+---
