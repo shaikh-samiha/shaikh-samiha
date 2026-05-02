@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Samiha Shaikh</h1>
+<h1 align="center">shaikh samiha</h1>
 <h3 align="center">Web Developer • Building Real-World Projects • Transitioning into DevOps & Cloud</h3>
 
 <p align="center">
