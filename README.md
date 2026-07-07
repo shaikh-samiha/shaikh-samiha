@@ -1,158 +1,186 @@
-<!-- HEADER -->
-<h1 align="center">Shaikh Samiha</h1>
-<h3 align="center">Shaikh Samiha | Web Developer Portfolio | Samiha Shaikh Developer</h3>
+<h1 align="center">Hi 👋, I'm Shaikh Samiha</h1>
+
+<h3 align="center">
+Web Developer • UI/UX Enthusiast • Future DevOps & Cloud Engineer
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaikh-samiha-024b97245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Samiha-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:shaikhsamiha9175@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Shaikh%20Samiha-red?style=for-the-badge&logo=gmail">
-  </a>
+Building modern web applications, solving real-world problems, and continuously learning production-grade technologies.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/shaikh-samiha">
+<img src="https://komarev.com/ghpvc/?username=shaikh-samiha&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/shaikh-samiha?tab=followers">
+<img src="https://img.shields.io/github/followers/shaikh-samiha?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/shaikh-samiha">
+<img src="https://img.shields.io/github/stars/shaikh-samiha?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🔍 Shaikh Samiha – Web Developer Portfolio
+# 👩‍💻 About Me
 
-Shaikh Samiha is a web developer focused on building real-world projects and scalable digital solutions.  
-Samiha Shaikh specializes in frontend development, UI/UX design, and is currently transitioning into DevOps and Cloud engineering.
-
-If you are searching for **Shaikh Samiha**, this is the official GitHub portfolio of Samiha Shaikh showcasing real client projects, development work, and technical growth.
-
-**Keywords:**  
-Shaikh Samiha, Samiha Shaikh developer, Shaikh Samiha portfolio, Samiha Shaikh web developer
-
----
-
-## 🌐 Official Profiles of Shaikh Samiha
-
-- LinkedIn: https://www.linkedin.com/in/shaikh-samiha-024b97245/
-- GitHub: https://github.com/shaikh-samiha
-- Instagram: https://www.instagram.com/shaikhsamiha_75/
-- X (Twitter): https://x.com/shaikh_samiha75
+- 💻 Frontend Web Developer
+- 🎨 UI/UX Designer
+- 🚀 Founder of **GrowOn Community**
+- 🌱 Currently learning **DevOps, Linux, Docker & Cloud**
+- 🎯 Interested in building scalable production-ready applications
+- 🤝 Open to internships, freelance projects and collaborations
 
 ---
 
-## 🚀 About Shaikh Samiha
+# 🌐 Connect With Me
 
-Shaikh Samiha is a web developer working on real-world client projects.  
-Samiha Shaikh focuses on clean UI, structured layouts, and usability-driven design.
+<p align="left">
 
-Shaikh Samiha is also the founder of GrowOn Community, a student-focused platform helping individuals build real-world skills.
+<a href="https://www.linkedin.com/in/shaikh-samiha-024b97245/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Samiha Shaikh is actively building projects and moving towards DevOps, Cloud, and production-level engineering.
+<a href="https://github.com/shaikh-samiha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://www.instagram.com/shaikhsamiha_75/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://x.com/shaikh_samiha75">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects by Shaikh Samiha
+# 🛠 Tech Stack
 
-<table>
-<tr>
-<th>Project</th>
-<th>Problem</th>
-<th>What Shaikh Samiha Built</th>
-<th>Tech</th>
-<th>Link</th>
-</tr>
+## Languages
 
-<tr>
-<td><b>Tanny — Brand Identity Website</b></td>
-<td>Needed a premium portfolio website to showcase brand identity work and attract clients</td>
-<td>Shaikh Samiha designed & developed a structured, high-conversion website with strong visual hierarchy and service flow</td>
-<td>React, Tailwind CSS, JavaScript</td>
-<td><a href="https://tanx-three.vercel.app/#work">Live</a></td>
-</tr>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<tr>
-<td><b>AdvSohel</b></td>
-<td>No professional online presence for legal services</td>
-<td>Shaikh Samiha built a clean personal brand website focused on clarity, trust, and credibility</td>
-<td>React, Tailwind CSS</td>
-<td><a href="https://www.advsohel.in/">Live</a></td>
-</tr>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<tr>
-<td><b>iBuildings</b></td>
-<td>Business lacked structured digital presence</td>
-<td>Shaikh Samiha developed a corporate website with clear service structure and user-friendly navigation</td>
-<td>React, Tailwind CSS</td>
-<td><a href="https://ibuildings-new.vercel.app/">Live</a></td>
-</tr>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<tr>
-<td><b>Troway — Waste Management Platform</b></td>
-<td>Households and businesses lack accessible recycling systems</td>
-<td>Shaikh Samiha built a conversion-focused landing page structured around problem → solution → impact</td>
-<td>React, Tailwind CSS, JavaScript</td>
-<td><a href="https://troway-1-nhs2.vercel.app/#/">Live</a></td>
-</tr>
-
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🌐 GrowOn Community by Shaikh Samiha
+## Frontend
 
-Shaikh Samiha is the founder of GrowOn Community, focused on:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- Skill development & career guidance  
-- Workshops and mentorship sessions  
-- Bridging the gap between learning and real-world opportunities  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
----
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-## 📊 GitHub Stats – Shaikh Samiha
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-samiha&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-samiha&theme=tokyonight" />
-</p>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 ---
 
-## 🎯 Current Focus of Shaikh Samiha
+## Backend
 
-- Building high-conversion websites for startups & personal brands  
-- Improving UI/UX and frontend performance  
-- Delivering real-world client projects  
-- Transitioning into DevOps and Cloud engineering  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
----
-
-## 📫 Connect with Shaikh Samiha
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaikh-samiha-024b97245/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:shaikhsamiha9175@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/shaikhsamiha_75/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/shaikh_samiha75"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</p>
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ---
 
-## 🔍 More About Shaikh Samiha
+## Database
 
-Shaikh Samiha portfolio showcases projects in web development, UI/UX, and frontend engineering.
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-Samiha Shaikh developer profile includes:
-- Web development projects  
-- Client work  
-- Portfolio websites  
-- UI/UX design systems  
-
-This GitHub repository represents the official work of Shaikh Samiha.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-<p align="center">
-⚡ Shaikh Samiha is building real projects, learning systems, and moving towards production-level engineering.
-</p>
+## DevOps & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
+
+---
+
+## Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Tanny** | Premium Brand Identity Website | React, Tailwind CSS |
+| **AdvSohel** | Personal Brand Website | React, Tailwind CSS |
+| **iBuildings** | Corporate Business Website | React, Tailwind CSS |
+| **GrowOn** | Student Learning Community | React |
+| **NotesPy** | Student Notes Platform | MERN |
+| **Troway** | Waste Management Landing Page | React |
+
+---
+
+# 🌱 Currently Learning
+
+- Linux Administration
+- Docker
+- DevOps
+- AWS Cloud
+- CI/CD
+- GitHub Actions
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shaikh-samiha&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaikh-samiha&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-samiha&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=shaikh-samiha&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
+# 💡 Current Goals
+
+- Build production-grade applications
+- Master DevOps & Cloud Engineering
+- Contribute to Open Source
+- Work on impactful client projects
+- Continuously improve problem-solving skills
+
+---
+
+# ⭐ Thanks for visiting!
+
+If you like my work, consider following my GitHub profile and exploring my repositories.
+
+Happy Coding! 🚀
